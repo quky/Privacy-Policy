@@ -36,7 +36,7 @@ The app may request the following permissions:
 * **Internet Access** – Used to verify purchases and enable app functionality
 * **Network State** – Used to check connectivity status
 * **Storage Access** – Used to save and load app settings locally on your device
-* **Account/Contact Access** – Used only for purchase verification (if applicable)
+* **Account access (used only for verifying purchases through Google Play services)
 
 We do not use these permissions to collect personal user data.
 
