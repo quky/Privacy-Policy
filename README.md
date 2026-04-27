@@ -111,29 +111,21 @@ These services may collect and process data according to their own privacy polic
 
 ---
 
-### 6. Additional Data Retention Details
-
-We retain data only as described above and only for the minimum time necessary.
-
-Users may request deletion of their data at any time by contacting us, and we will delete it within a reasonable timeframe unless retention is required by law.
-
-We do not store personal data on external servers.
-
 ---
 
-### 7. Data Security
+### 6. Data Security
 
 We implement reasonable technical and organizational measures to protect data. However, no system can be guaranteed 100% secure.
 
 ---
 
-### 8. Children's Privacy
+### 7. Children's Privacy
 
 The App is not directed to children under the age of 13. We do not knowingly collect personal data from children.
 
 ---
 
-### 9. Changes to This Privacy Policy
+### 8. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
 
@@ -141,13 +133,13 @@ Continued use of the App after changes constitutes acceptance of the updated pol
 
 ---
 
-### 10. Your Consent
+### 9. Your Consent
 
 By using the App, you agree to this Privacy Policy.
 
 ---
 
-### 11. Contact Us
+### 10. Contact Us
 
 If you have any questions or requests regarding this Privacy Policy, you may contact us:
 
