@@ -1,51 +1,96 @@
-Interval Timer:Tabata HIIT (“us” or “we”) has created this Policy to explain our privacy practices so that you will understand what information about you is collected, used and disclosed with respect to the Applications, the Services and the Site.
+**Privacy Policy – Interval Timer: Tabata HIIT**
 
-We take the privacy of our customers seriously and are committed to safeguarding your privacy while you use our Software, Services or the Site.
+Interval Timer: Tabata HIIT (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use our mobile application (the “App”), services, or website.
 
-User Communications (Information You Provide)
+---
 
-When you use our email support services, we may retain those communications in order to process your inquiries, respond to your requests, personalize your experience, and improve our services, assist with our product and service development.
+### 1. Information We Collect
 
- 
+We do not collect or store personal user data on our servers.
 
-Non-personal Data for debug (Information You Provide)
+However, the following limited data may be processed:
 
-You may send your Non-personal data (information that, by itself, does not personally identify you). We may collect Non-personal data such as your device model number, operating system version, country code and other properties for purposes of managing the apps and communicating with you.
+**User Communications**
+If you contact us via email, we may retain your message and email address in order to:
 
-Android App – Permissions:
+* Respond to your inquiries
+* Provide support
+* Improve our services
 
-The applications have such permissions:
+**Non-Personal Data**
+We may collect non-personal information that does not directly identify you, such as:
 
-• Access to the Internet (to verify proof of purchase)
+* Device model
+* Operating system version
+* Country code
+* App performance data
 
-• View network status (to verify access to the Internet)
+This information is used strictly for debugging, improving app performance, and ensuring compatibility.
 
-• Access to the SD card (to save and read internal information of application)
+---
 
-• Access to the account/contact information (to verify proof of purchase) 
+### 2. Permissions Used by the App
 
- 
+The app may request the following permissions:
 
-Additional information:
+* **Internet Access** – Used to verify purchases and enable app functionality
+* **Network State** – Used to check connectivity status
+* **Storage Access** – Used to save and load app settings locally on your device
+* **Account/Contact Access** – Used only for purchase verification (if applicable)
 
-All trademarks, trade names, and logos of third parties featured on the Applications or the Site belong to their respective owners.
+We do not use these permissions to collect personal user data.
 
-Changes to this Privacy Policy:
+---
 
-We aim to meet high standards and our policies and procedures are, therefore, constantly under review. We may, therefore, change this privacy policy in the future. For example, if we offer a new type of product or service that collects different types of information, we might outline our use of that information here. As a result, please check back with this page regularly to see if anything’s changed.
+### 3. Data Retention
 
-Your Consent:
+We retain data only for as long as necessary for the purposes described in this policy:
 
-By using Application, the Services or the Site, you agree to this privacy policy and give an explicit and informed consent to the processing.
+* **Email communications:** Retained as long as needed to resolve your request and for a reasonable period afterward for support history
+* **Non-personal diagnostic data:** Retained temporarily and may be automatically deleted or anonymized after a limited period
+* **Local app data:** Stored only on your device and retained until you clear the app data or uninstall the app
 
-Contact Us:
+If you request deletion of your communication data, we will delete it unless retention is required for legal reasons.
 
-If you want to find out more, you can contact us at:
+---
+
+### 4. Data Sharing
+
+We do not sell, trade, or rent your personal data.
+
+We do not share personal data with third parties except when required by law.
+
+---
+
+### 5. Third-Party Services
+
+If the app uses third-party services (such as Google Play Billing), those services may collect and process data according to their own privacy policies.
+
+---
+
+### 6. Security
+
+We take reasonable measures to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+---
+
+### 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected on this page. Continued use of the app indicates acceptance of any updates.
+
+---
+
+### 8. Your Consent
+
+By using the App, you agree to this Privacy Policy.
+
+---
+
+### 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
 
 Quky
-
-18319 Kings Lynn 
-
-Houston TX 77058 
-
+18319 Kings Lynn
+Houston, TX 77058
 USA
