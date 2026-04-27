@@ -42,15 +42,16 @@ We do not use these permissions to collect personal user data.
 
 ---
 
-### 3. Data Retention
+### 3. Data Retention:
 
-We retain data only for as long as necessary for the purposes described in this policy:
+We retain data only for as long as necessary to fulfill the purposes described in this Privacy Policy.
 
-* **Email communications:** Retained as long as needed to resolve your request and for a reasonable period afterward for support history
-* **Non-personal diagnostic data:** Retained temporarily and may be automatically deleted or anonymized after a limited period
-* **Local app data:** Stored only on your device and retained until you clear the app data or uninstall the app
+* User communications (such as emails) are retained only as long as necessary to respond to inquiries and provide support, and may be kept for a reasonable period for reference.
+* Non-personal diagnostic and debug data is retained temporarily and may be automatically deleted or anonymized after a limited period.
+* Any data stored locally on the device remains only until the user clears the app data or uninstalls the application.
 
-If you request deletion of your communication data, we will delete it unless retention is required for legal reasons.
+We do not store personal data on external servers. Users may request deletion of their data by contacting us, and we will comply unless retention is required for legal purposes.
+
 
 ---
 
