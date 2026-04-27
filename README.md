@@ -100,20 +100,15 @@ These services may collect and process data according to their own privacy polic
 
 ### 6. Data Retention
 
-We retain data only for as long as necessary to fulfill the purposes described in this Privacy Policy:
+We retain user data only for a limited period of time and only as necessary to provide app functionality and support.
 
-* **User communications (emails):**
-  Retained only as long as needed to resolve your request and typically deleted within **30–90 days** after resolution, unless required for ongoing support or legal obligations.
+Email communications: Stored for up to 90 days after the issue is resolved, then permanently deleted.
+Diagnostic and non-personal data: Stored for up to 12 months, then automatically deleted or anonymized.
+Local app data on your device: Stored until you manually delete the app data or uninstall the application.
 
-* **Non-personal diagnostic data:**
-  Retained temporarily and automatically deleted or anonymized within a limited period (typically up to **12 months**).
+We do not retain personal data indefinitely. We do not store personal data on external servers.
 
-* **Local app data:**
-  Stored only on your device and retained until you clear the app data or uninstall the App.
-
-We do not store personal data on external servers.
-
-Users may request deletion of their data at any time by contacting us.
+Users may request deletion of their data at any time by contacting us, and we will delete it within a reasonable timeframe.
 
 ---
 
