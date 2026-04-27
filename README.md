@@ -1,8 +1,21 @@
-**Privacy Policy – Interval Timer: Tabata HIIT**
+**Privacy Policy**
+**Interval Timer: Tabata HIIT**
 
 Effective Date: April 2026
 
 Interval Timer: Tabata HIIT (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use our mobile application (the “App”).
+
+---
+
+### How Long We Keep Data (Data Retention)
+
+We clearly state how long user data is stored:
+
+* **Email communications:** stored for up to **90 days**, then permanently deleted.
+* **Non-personal diagnostic data:** stored for up to **12 months**, then deleted or anonymized.
+* **Local app data on your device:** stored until you delete the app data or uninstall the App.
+
+We do not retain data longer than necessary and do not store personal data indefinitely.
 
 ---
 
@@ -58,7 +71,7 @@ The App may request the following permissions:
 * **Account Access (Google Play Services)**
   Used only to verify in-app purchases. We do not access or store your account details.
 
-* **Bluetooth / Local Network (if applicable)**
+* **Bluetooth and Local Network access**
   Used only to communicate with compatible local devices (such as fitness equipment, microcontrollers, or smart home devices) on your network.
   No data from these connections is collected, stored remotely, or shared.
 
@@ -98,17 +111,13 @@ These services may collect and process data according to their own privacy polic
 
 ---
 
-### 6. Data Retention
+### 6. Additional Data Retention Details
 
-We retain user data only for a limited period of time and only as necessary to provide app functionality and support.
+We retain data only as described above and only for the minimum time necessary.
 
-Email communications: Stored for up to 90 days after the issue is resolved, then permanently deleted.
-Diagnostic and non-personal data: Stored for up to 12 months, then automatically deleted or anonymized.
-Local app data on your device: Stored until you manually delete the app data or uninstall the application.
+Users may request deletion of their data at any time by contacting us, and we will delete it within a reasonable timeframe unless retention is required by law.
 
-We do not retain personal data indefinitely. We do not store personal data on external servers.
-
-Users may request deletion of their data at any time by contacting us, and we will delete it within a reasonable timeframe.
+We do not store personal data on external servers.
 
 ---
 
